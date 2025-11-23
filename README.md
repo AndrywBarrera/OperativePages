@@ -103,9 +103,10 @@ python main.py
 os-simulator/
 ├── main.py              # Código principal del simulador
 ├── README.md            # Documentación
-├── requirements.txt     # Dependencias
 └── docs/
     └── InformeTecnico.pdf   # Informe técnico detallado
+    └── InformeDePruebas.pdf   # Informe de pruebas detallado
+    └── ManuealDeUsuario.pdf   # Manual de usuario detallado
 ```
 
 ## 🔧 Dependencias
